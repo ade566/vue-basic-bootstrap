@@ -12,8 +12,10 @@
 		</nav>
 	</div>
 	<About />
+	<OurTeam />
 </template>
 
 <script setup>
 import About from '@/components/partial/AboutSection.vue'
+import OurTeam from '@/components/partial/OurTeam.vue'
 </script>
