@@ -13,9 +13,11 @@
 	</div>
 	<About />
 	<OurTeam />
+	<Project />
 </template>
 
 <script setup>
 import About from '@/components/partial/AboutSection.vue'
 import OurTeam from '@/components/partial/OurTeam.vue'
+import Project from '@/components/partial/ProjectSection.vue'
 </script>

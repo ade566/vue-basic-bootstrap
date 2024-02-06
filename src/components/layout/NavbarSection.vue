@@ -31,6 +31,11 @@
             </router-link>
           </li>
           <li class="nav-item">
+            <router-link to="/project" class="nav-link">
+              Portofolio Kami
+            </router-link>
+          </li>
+          <li class="nav-item">
             <router-link to="/faq" class="nav-link">
               Faq
             </router-link>
